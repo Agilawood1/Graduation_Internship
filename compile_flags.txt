@@ -1,0 +1,3 @@
+-Isrc
+-Ilibs/zlgcan_x86
+-std=c++17

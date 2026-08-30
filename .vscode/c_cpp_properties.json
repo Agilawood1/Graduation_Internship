@@ -1,0 +1,15 @@
+
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/libs/zlgcan_x86/**",
+                "${workspaceFolder}/src/**"
+            ],
+            "defines": [],
+            "windowsSdkVersion": "10.0.26100.0"
+        }
+    ],
+    "version": 4
+}
